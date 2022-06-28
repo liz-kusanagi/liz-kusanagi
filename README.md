@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liz-kusanagi
-- 👀 I’m interested in information security
-- 🌱 I’m currently learning bash and python to prepare for the OSCP
+- 👀 I’m a security analyst by day, learning more on offensive security by night 
+- 🌱 I’m currently preparing for the OSCP and PNPT exams
 - 💞️ I’m looking to collaborate on open source tools!
 - 📫 How to reach me:
           liz_kusanagi on twitter     
