@@ -3,7 +3,7 @@
 - 🌱 I’m currently preparing for the CTPS and PNPT exams
 - 💞️ I’m looking to collaborate on open source tools!
 - 📫 How to reach me:
-          sec-9.jp on bluesky!   
+          sec-9.net on bluesky!   
 
 <!---
 liz-kusanagi/liz-kusanagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
